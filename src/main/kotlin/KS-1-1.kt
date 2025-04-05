@@ -5,6 +5,5 @@ fun main() {
     val thankYouMessage: String = "Спасибо за вашу покупку!Ждём вас снова"
     println("Количество заказов: $totalOrderCount")
     println(thankYouMessage)
-    //
 
 }
