@@ -6,5 +6,4 @@ fun main() {
     println("Количество заказов: $totalOrderCount")
     println(thankYouMessage)
 
-
 }
